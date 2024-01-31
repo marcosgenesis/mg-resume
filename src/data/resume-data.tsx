@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/49327985?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "marcosgenesisof@gmail.com",
@@ -58,22 +58,22 @@ export const RESUME_DATA = {
     {
       company: "Sossego",
       link: "#",
-      badges: ["Remote"],
+      badges: ["Remoto"],
       title: "Mid Frontend Software Developer",
       // logo: ParabolLogo,
       start: "2020",
-      end: "Atual",
+      end: "-",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "peça-chave na criação e aprimoramento de dois softwares vitais para a experiência dos clientes da empresa. Colaborei ativamente em iniciativas de inovação, definição de tecnologias, desenvolvimento e otimização das plataformas.",
     },
     {
-      company: "Clevertech",
+      company: "Maiself",
       link: "https://clevertech.biz",
-      badges: ["Remote"],
-      title: "Lead Android Developer → Full Stack Developer",
+      badges: ["Remoto"],
+      title: "Founder",
       logo: ClevertechLogo,
-      start: "2015",
-      end: "2021",
+      start: "2019",
+      end: "2022",
       description:
         "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
     },
