@@ -49,7 +49,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Universidade Federal do Ceará",
-      degree: "Bacharelado em Engenharia de Software",
+      degree: "Bacharelado em Engenharia de Software, com foco em qualidade de Software. Bolsista PIBIT responsável pela criação da ferramenta CIref, um visualizador de refatorações executadas em projetos JAVA.",
       start: "2019",
       end: "2022",
     },
@@ -62,47 +62,59 @@ export const RESUME_DATA = {
       title: "Mid Frontend Software Developer",
       // logo: ParabolLogo,
       start: "2020",
-      end: "-",
+      end: "",
       description:
-        "peça-chave na criação e aprimoramento de dois softwares vitais para a experiência dos clientes da empresa. Colaborei ativamente em iniciativas de inovação, definição de tecnologias, desenvolvimento e otimização das plataformas.",
+        "Peça chave na criação e aprimoramento de dois softwares vitais para a experiência dos clientes da empresa. Colaborei ativamente em iniciativas de inovação, definição de tecnologias, desenvolvimento e otimização das plataformas.",
     },
     {
       company: "Maiself",
       link: "https://clevertech.biz",
       badges: ["Remoto"],
-      title: "Founder",
+      title: "Co-Founder",
       logo: ClevertechLogo,
       start: "2019",
       end: "2022",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "Responsável por liderar a equipe de tecnologia no desenvolvimento do produto, visão estratégica da empresa e definição de KPI's.",
     },
   ],
   skills: [
     "JavaScript",
     "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "React/Next.js/Vite",
+    "Node.js/Nestjs",
   ],
   projects: [
     {
-      title: "Consultly",
+      title: "Veacos",
       techStack: [
         "Side Project",
         "TypeScript",
         "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "TRPC",
+        "NextAuth"
       ],
-      description: "A platform to build and grow your online business",
+      description: "Uma plataforma para gerenciar as dívidas que devem a você.",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "veacos.com",
+        href: "https://veacos.com/",
+      },
+    },
+    {
+      title: "See u",
+      techStack: [
+        "Side Project",
+        "TypeScript",
+        "Next.js",
+        "TRPC",
+        "NextAuth"
+      ],
+      description: "Ferramenta para publicar e visualizar segredos de forma anônima e aleatória.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "veacos.com",
+        href: "https://veacos.com/",
       },
     },
   ],
