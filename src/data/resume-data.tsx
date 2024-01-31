@@ -57,7 +57,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Sossego",
-      // link: "https://parabol.co",
+      link: "#",
       badges: ["Remote"],
       title: "Mid Frontend Software Developer",
       // logo: ParabolLogo,
