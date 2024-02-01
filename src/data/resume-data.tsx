@@ -56,17 +56,6 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Sossego",
-      link: "#",
-      badges: ["Remoto"],
-      title: "Mid Frontend Software Developer",
-      // logo: ParabolLogo,
-      start: "2020",
-      end: "",
-      description:
-        "Peça chave na criação e aprimoramento de dois softwares vitais para a experiência dos clientes da empresa. Colaborei ativamente em iniciativas de inovação, definição de tecnologias, desenvolvimento e otimização das plataformas.",
-    },
-    {
       company: "Maiself",
       link: "https://clevertech.biz",
       badges: ["Remoto"],
@@ -76,6 +65,17 @@ export const RESUME_DATA = {
       end: "2022",
       description:
         "Responsável por liderar a equipe de tecnologia no desenvolvimento do produto, visão estratégica da empresa e definição de KPI's.",
+    },
+    {
+      company: "Sossego",
+      link: "#",
+      badges: ["Remoto"],
+      title: "Mid Frontend Software Developer",
+      // logo: ParabolLogo,
+      start: "2020",
+      end: "",
+      description:
+        "Peça chave na criação e aprimoramento de dois softwares vitais para a experiência dos clientes da empresa. Colaborei ativamente em iniciativas de inovação, definição de tecnologias, desenvolvimento e otimização das plataformas.",
     },
   ],
   skills: [
