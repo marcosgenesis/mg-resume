@@ -25,11 +25,11 @@ export const RESUME_DATA = {
   location: "Horizonte, Ceará - Brasil",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Frontend Software Engineer",
   summary:
     "Como desenvolvedor de Software Frontend, tive destaque na criação e otimização de softwares cruciais para a experiência dos clientes na empresa que trabalho. Atuei como Co-Founder na Maiself, liderando a equipe de tecnologia e definindo a visão estratégica. Bacharel em Engenharia de Software pela Universidade Federal do Ceará, com bolsas acadêmicas com foco em qualidade de software. Minha paixão reside na inovação tecnológica e na constante busca por aprimoramento.",
   avatarUrl: "https://avatars.githubusercontent.com/u/49327985?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://marcosgenesis.com",
   contact: {
     email: "marcosgenesisof@gmail.com",
     tel: "(85) 992855994",
