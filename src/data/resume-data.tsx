@@ -102,7 +102,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "See u",
+      title: "Seecrets",
       techStack: [
         "Side Project",
         "TypeScript",
@@ -113,8 +113,8 @@ export const RESUME_DATA = {
       description: "Ferramenta para publicar e visualizar segredos de forma anônima e aleatória.",
       logo: ConsultlyLogo,
       link: {
-        label: "veacos.com",
-        href: "https://veacos.com/",
+        label: "Seecrets",
+        href: "https://seecrets.twooni.com/",
       },
     },
   ],
